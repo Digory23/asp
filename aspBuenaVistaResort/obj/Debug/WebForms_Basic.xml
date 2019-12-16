@@ -37,6 +37,96 @@ aspBuenaVistaResort
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
+<member name="F:aspBuenaVistaResort.Principal._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:aspBuenaVistaResort.Principal._grvPropietarios">
+<summary>
+grvPropietarios control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:aspBuenaVistaResort.Principal._grvClientes">
+<summary>
+grvClientes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:aspBuenaVistaResort.Principal._grvApartamentos">
+<summary>
+grvApartamentos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:aspBuenaVistaResort.Principal._grvAlquileres">
+<summary>
+grvAlquileres control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:aspBuenaVistaResort.Principal._grvEquipos">
+<summary>
+grvEquipos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:aspBuenaVistaResort.Principal._grvMantenimiento">
+<summary>
+grvMantenimiento control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:aspBuenaVistaResort.Principal._lblAptoMan">
+<summary>
+lblAptoMan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:aspBuenaVistaResort.Principal._lblAptoAlq">
+<summary>
+lblAptoAlq control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:aspBuenaVistaResort.Principal._grvIngresos">
+<summary>
+grvIngresos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:aspBuenaVistaResort.SiteMaster._MainContent">
 <summary>
 Control MainContent.

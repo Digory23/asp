@@ -14,7 +14,7 @@
         <hr />
     &nbsp;</header>
     <main>
-        <form action="About.aspx" method="post">
+        <form action="" method="post">
             <h3>Login de Administradores</h3>
             <p>Usuario</p>
             <input type="text" name="usua"  />
@@ -34,7 +34,9 @@
     usuario = Request.Form("usua")
     contra = Request.Form("pass")
     If usuario = "user" And contra = "123" Then
-        Response.Redirect("About.aspx")
+        Response.Redirect("Principal.aspx")
+    Else
+
     End If
 %>
 </body>
